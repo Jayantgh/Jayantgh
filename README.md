@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jayantgh
-- 👀 I’m interested in design
+- 👋 Hi, I’m @Jayantaghosh
+- 👀 I’m interested in data analyst
 - 🌱 I’m currently learning fashion management
-- 💞️ I’m looking to collaborate on digital marketing
-- 📫 How to reach me by my email
+- 💞️ I’m looking to collaborate on ecommerce business
+- 📫 How to reach me by my email jayantaghosh28892@gmail.com
 
 <!---
 Jayantgh/Jayantgh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
