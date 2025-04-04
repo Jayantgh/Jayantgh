@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jayantaghosh
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning fashion management
-- 💞️ I’m looking to collaborate on ecommerce business
+- 👀 I’m interested in Data World
+- 🌱 I’m currently learning data analytics
+- 💞️ I’m looking to collaborate on new projects related to data analytics
 - 📫 How to reach me by my email jayantaghosh28892@gmail.com
 
 <!---
