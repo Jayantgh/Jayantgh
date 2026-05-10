@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Jayantaghosh
-- 👀 I’m interested in Data World
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on new projects related to data analytics
-- 📫 How to reach me by my email jayantaghosh28892@gmail.com
-
-<!---
-Jayantgh/Jayantgh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I am Jayanta Ghosh
+I am a Revenue and Growth Analyst focused on transforming raw data into meaningful business insights.
+## Skills
+- SQL, Python, Excel, Power BI, Tableau, Metabase
+- Data Cleaning, EDA, KPI Reporting, Dashboarding
+- Business Analysis, Data Visualization, Storytelling
+## Portfolio Projects
+- Sales Performance Dashboard
+- Customer Churn Analysis
+- Revenue and Sales P&l KPI Reporting
+- Operations Efficiency Analysis
+## Contact
+- LinkedIn: linkedin.com/in/jayanta-ghosh-ba7aa3155
+- Email: jayantaghosh28892@gmail.com
